@@ -1,7 +1,7 @@
 import sys, tempfile
 
 #  Webserver host and port
-HTTP_HOST = '192.168.100.100'
+HTTP_HOST = 'localhost'
 HTTP_PORT = 8080
 
 #  DIR_RES is the location of the html, js and css files
